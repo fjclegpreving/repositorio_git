@@ -2,4 +2,4 @@ Otro fichero en feature-1.
 
 Modificación local.
 
-Nueva línea añadida.
+Nueva línea añadida desde usuario gmail localmente.
