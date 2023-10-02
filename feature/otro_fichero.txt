@@ -1,3 +1,5 @@
 Otro fichero en feature-1.
 
 Modificación local.
+
+Nueva línea añadida.
