@@ -1,4 +1,4 @@
 # repositorio_git
 Primer repositorio en GitHub.
 
-README.md editado manualmente. Este fichero ha sido modificado localmente.
+Esta línea fue modificada manualmente durante la resolución de conflicto.
