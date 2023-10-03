@@ -5,3 +5,5 @@ Modificación local.
 Esta línea fue creada en feature-2.
 
 Una modificación más en feature-2.
+
+Editado en la rama feature-2.
