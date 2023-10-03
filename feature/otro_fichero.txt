@@ -3,3 +3,5 @@ Esta línea fue sustituida en la rama feature-2.
 Modificación local.
 
 Esta línea fue creada en feature-2.
+
+Una modificación más en feature-2.
